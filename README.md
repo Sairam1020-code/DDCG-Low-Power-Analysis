@@ -64,7 +64,7 @@ The project is based on published research on data-driven clock gating, flip-flo
 
 ## Author
 
-[Your Name]
+Sai Ram Ruttala
 
 Department of Electronics and Communication Engineering  
 IIIT Nagpur
